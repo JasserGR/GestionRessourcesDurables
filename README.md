@@ -56,8 +56,8 @@ The project follows an **MVC (Model-View-Controller)** architecture to ensure cl
 - Navigate through ISO management, resource tracking, and audit features.
 - Generate corrective action plans to meet sustainability objectives.
 
-## 🖼️ Screenshots (Optional)
-Include relevant screenshots of the UI to showcase the app's features.
+## 📽️ Demo
+Check out the video demonstration of the project on **LinkedIn** : 
 
 ## 👥 Collaborators
 - **Jasser Gorsia** - Developer
