@@ -57,7 +57,7 @@ The project follows an **MVC (Model-View-Controller)** architecture to ensure cl
 - Generate corrective action plans to meet sustainability objectives.
 
 ## 📽️ Demo
-Check out the video demonstration of the project on **LinkedIn** : 
+Check out the video demonstration of the project on **LinkedIn** : https://www.linkedin.com/posts/jasser-gorsia-48793b2a5_excited-to-share-our-latest-project-i-activity-7278157137007017986-5OcM?utm_source=share&utm_medium=member_desktop
 
 ## 👥 Collaborators
 - **Jasser Gorsia** - Developer
